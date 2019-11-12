@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="msd.t2_c3.spring_di1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/target/msd.t2_c3.spring_di.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
